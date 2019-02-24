@@ -26,3 +26,10 @@ Changes to Project Gutenburg Html Files
 =======================================
 
 Added link to css file in each of the files.
+Made all anchor tags refer to the same page for chapter jumping
+
+Images from:
+============
+Resolver Inc logo from https://www.resolver.com/
+Students Union logo from https://www.su.ualberta.ca/
+
